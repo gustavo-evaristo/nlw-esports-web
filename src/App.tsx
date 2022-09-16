@@ -39,7 +39,7 @@ export function App() {
                     :  <div className="max-w-[1200px] mx-auto flex flex-col items-center justify-center my-10">
                         <img src={Logo} alt="" className="w-64" />
                         <h1 className="text-6xl text-white font-black mt-6">
-                            Seu <span className="text-transparent bg-nlw-gradient bg-clip-text">duo</span>está aqui.
+                            Seu <span className="text-transparent bg-nlw-gradient bg-clip-text">duo</span> está aqui.
                         </h1>
 
                         <div className="grid grid-cols-6 gap-6 mt-16">
